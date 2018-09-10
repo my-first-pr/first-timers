@@ -4,6 +4,10 @@ Repo for first timers to PR onto, with their name, etc.
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) before submitting your PR.
 
+### Awesome Engineer
+- I am pretty awesome
+- [![twitter-alt][twitter-img]](https://twitter.com/awesome)
+
 ### Luke Oliff
 - Technical Writer @ [Auth0](https://auth0.com)
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
