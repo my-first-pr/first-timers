@@ -13,6 +13,8 @@
 
 This repository is for anyone to create pull requests on, for practice or otherwise. It isn't associated with any specific event. This is all about open source. Have fun!
 
+![My First PR: First Timers](https://my-first-pr.github.io/assets/images/undraw_wall_post_83ul.svg)
+
 ## Contributors List
 
 Start adding your names here:
