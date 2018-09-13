@@ -37,6 +37,13 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Start adding your names here:
 
+### Incredible Engineer
+- I'm an incredible engineer who works with all the lastest technology @ ACME, Inc.
+- Sometimes, I like to make pull requests that don't get merged.
+- [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
+  [![facebook-alt][facebook-img]](https://facebook.com/getauth0)
+  [![github-alt][github-img]](https://github.com/lukeoliff)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
