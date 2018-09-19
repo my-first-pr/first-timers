@@ -20,6 +20,10 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### Awesome Engineer
+- I am pretty awesome and I like to do awesome stuff.
+- I have a pet Sheep and his name is Fleecey.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
