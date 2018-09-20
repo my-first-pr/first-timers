@@ -20,6 +20,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### Luke Oliff
+- [Open source software advocate](https://my-first-pr.github.io), [pirate translator](https://github.com/lukeoliff/first-contributions/blob/feature/translation-en-pirate/translations/README.en-pirate.md) & [technical writer](https://github.com/auth0/blog)
+- [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
+  [![github-alt][github-img]](https://github.com/lukeoliff)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
