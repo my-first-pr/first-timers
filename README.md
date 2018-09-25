@@ -25,6 +25,13 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
   [![github-alt][github-img]](https://github.com/lukeoliff)
 
+### Revzan Kamarullah
+- Software Engineer, Javascript Enthusiast => Arrow Function Addict.
+- Loved to contribute to open source
+- Hobbies include fixing linting errors, try new things and fixing linting errors (again)
+- [![twitter-alt][twitter-img]](https://twitter.com/paperlambda)
+  [![github-alt][github-img]](https://github.com/paperlambda)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
