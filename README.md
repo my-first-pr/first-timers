@@ -43,6 +43,11 @@ Start adding your names here:
 - I work for nobody	
 - My hobbies include watching movies
 
+### Dan E.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
