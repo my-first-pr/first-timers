@@ -16,6 +16,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 ![My First PR: First Timers](https://my-first-pr.github.io/assets/images/undraw_wall_post_83ul.svg)
 
+## Hacktoberfest is on!
+
+- [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com/) first.
+- Then head to [our repository](https://github.com/my-first-pr/hacktoberfest-2018) to make your first hacktoberfest 2018 contribution.
+
 ## Contributors List
 
 Start adding your names here:
