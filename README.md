@@ -35,6 +35,11 @@ Start adding your names here:
 - I work for nobody	
 - My hobbies include watching movies
 
+### senpai
+- I'm a geeky nerd who stays in dark
+- I work for air
+- My hobbies include messing with linux, reading, playing fps.
+
 ### Kundan Kumar
 - I like AI, programming and web development.
 - [![github-alt][github-img]](https://github.com/kundan28)
