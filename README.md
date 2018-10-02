@@ -63,7 +63,7 @@ Start adding your names here:
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
   
-###Ananya Gupta
+### Ananya Gupta
 - I'm passionate about competitive coding
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
