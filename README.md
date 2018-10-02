@@ -25,6 +25,20 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### Dan E.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### gursimran
+- I'm a programmer who stays in india
+- I work for nobody	
+- My hobbies include watching movies
+
+### Kundan Kumar
+- I like AI, programming and web development.
+- [![github-alt][github-img]](https://github.com/kundan28)
+
 ### Luke Oliff
 - [Open source software advocate](https://my-first-pr.github.io), [pirate translator](https://github.com/lukeoliff/first-contributions/blob/feature/translation-en-pirate/translations/README.en-pirate.md) & [technical writer](https://github.com/auth0/blog)
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
@@ -36,7 +50,6 @@ Start adding your names here:
 - Hobbies include fixing linting errors, try new things and fixing linting errors (again)
 - [![twitter-alt][twitter-img]](https://twitter.com/paperlambda)
   [![github-alt][github-img]](https://github.com/paperlambda)
-
 
 ### gursimran
 - I'm a programmer who stays in india
@@ -53,7 +66,6 @@ Start adding your names here:
 - I currently work on GOLANG.
 - My hobbies include learning and teaching to code, and reading books.
 
-
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
@@ -64,6 +76,11 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+  
+### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
 
 ## How to Contribute
 
