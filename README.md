@@ -48,7 +48,7 @@ Start adding your names here:
 - I work and go to school.
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
-### Dan E.
+### Suvin Nimnaka
 - I'm a high school tech enthusiasist. 
 - I currently work on GOLANG.
 - My hobbies include learning and teaching to code, and reading books.
