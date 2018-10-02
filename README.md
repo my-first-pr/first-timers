@@ -51,6 +51,20 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/paperlambda)
   [![github-alt][github-img]](https://github.com/paperlambda)
 
+### gursimran
+- I'm a programmer who stays in india
+- I work for nobody	
+- My hobbies include watching movies
+
+### Dan E.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### Suvin Nimnaka
+- I'm a high school tech enthusiasist. 
+- I currently work on GOLANG.
+- My hobbies include learning and teaching to code, and reading books.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
