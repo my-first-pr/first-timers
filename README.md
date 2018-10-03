@@ -86,10 +86,25 @@ Start adding your names here:
 - I love to work in Open source to practis my skills but also to lern new one
 - I like to watch movies but also learning coding or making own videos
 
+### Shashika Boteju
+- I'm a graduated Software Engineer. 
+- I currently work on Informatics.
+- My hobbies include learning and teaching to code, and Gaming.
+
 ### thilna
 - I'm a web developer
 - I work for nobody	
 - My hobbies include watching tv series
+  
+### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
+
+### Sasini Edirisinghe
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -101,16 +116,6 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
-### Ananya Gupta
-- I'm passionate about competitive coding
-- I am a student at Manipal Institute of Technology
-- My hobbies include coding, reading and running.
-
-### Sasini Edirisinghe
-- I'm passionate about competitive coding
-- I am a student at Manipal Institute of Technology
-- My hobbies include coding, reading and running.
 
 ## How to Contribute
 
