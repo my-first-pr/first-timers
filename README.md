@@ -111,6 +111,11 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 
 Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+### Shashika.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
 ## Copyright
 
 Copyright (c) 2018 My First PR. See [LICENSE](LICENSE) for details.
