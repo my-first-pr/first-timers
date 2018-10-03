@@ -91,7 +91,22 @@ Start adding your names here:
 - I work and go to school.
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
+### Shashika Boteju
+- I'm a graduated Software Engineer. 
+- I currently work on Informatics.
+- My hobbies include learning and teaching to code, and Gaming.
+
+### thilna
+- I'm a web developer
+- I work for nobody	
+- My hobbies include watching tv series
+
 ### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
+
+### Sasini Edirisinghe
 - I'm passionate about competitive coding
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
