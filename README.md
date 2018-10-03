@@ -91,6 +91,11 @@ Start adding your names here:
 - Not the best, but trying to be one.
 - Love playing games.
 
+### Niaw Junior
+- I'm a Programmer
+- I work at DomeCloud
+- My hobbies is coding
+
 ### Shashika.
 - I'm a student learning C#
 - I work and go to school.
