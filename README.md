@@ -91,6 +91,30 @@ Start adding your names here:
 - Not the best, but trying to be one.
 - Love playing games.
 
+### Shashika.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### Shashika Boteju
+- I'm a graduated Software Engineer. 
+- I currently work on Informatics.
+- My hobbies include learning and teaching to code, and Gaming.
+
+### thilna
+- I'm a web developer
+- I work for nobody	
+- My hobbies include watching tv series
+
+### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
+
+### Sasini Edirisinghe
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -102,11 +126,6 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
-### Ananya Gupta
-- I'm passionate about competitive coding
-- I am a student at Manipal Institute of Technology
-- My hobbies include coding, reading and running.
 
 ## How to Contribute
 
