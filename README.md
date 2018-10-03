@@ -86,6 +86,15 @@ Start adding your names here:
 - I love to work in Open source to practis my skills but also to lern new one
 - I like to watch movies but also learning coding or making own videos
 
+### Shashika.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
@@ -97,11 +106,6 @@ Start adding your names here:
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  
-### Ananya Gupta
-- I'm passionate about competitive coding
-- I am a student at Manipal Institute of Technology
-- My hobbies include coding, reading and running.
 
 ## How to Contribute
 
@@ -110,11 +114,6 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 ## Code of Conduct
 
 Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
-### Shashika.
-- I'm a student learning C#
-- I work and go to school.
-- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
 ## Copyright
 
