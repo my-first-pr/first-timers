@@ -86,6 +86,12 @@ Start adding your names here:
 - I love to work in Open source to practis my skills but also to lern new one
 - I like to watch movies but also learning coding or making own videos
 
+### Shashika Boteju
+- I'm a graduated Software Engineer. 
+- I currently work on Informatics.
+- My hobbies include learning and teaching to code, and Gaming.
+
+
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
