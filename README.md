@@ -30,6 +30,11 @@ Start adding your names here:
 - I work and go to school.
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
+### dumblole
+- I go to high school and I think javascript is the best language... Well, I kinda like python too.
+- [![twitter-alt][twitter-img]](https://twitter.com/dumblole)
+  [![github-alt][github-img]](https://github.com/dumblole)
+
 ### gursimran
 - I'm a programmer who stays in india
 - I work for nobody	
