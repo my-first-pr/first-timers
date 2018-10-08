@@ -122,6 +122,12 @@ Start adding your names here:
 - My hobbies include coding, reading and running.
 
 ### Example Profile
+- I'm a beginner in open-source world
+- I work for an e-commerce company
+- My hobbies include coding and learning new stuffs (curious by heart)
+- [![github-alt][github-img]](https://github.com/nirupamsingh29)
+
+### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
