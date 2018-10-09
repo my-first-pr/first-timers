@@ -121,6 +121,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Zakariya
+- I'm a passionate Android developer.
+- I'm self-employed.
+- My hobbies include programming and sports.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
