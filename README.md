@@ -25,6 +25,13 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### kimcodes
+- I work at Auth0!
+- I am currently doing a webinar with the awesome Ado! 
+- I like comic books. 
+- [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
+  [![github-alt][github-img]](https://github.com/kim-codes)
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
