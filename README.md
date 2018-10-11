@@ -128,6 +128,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+## Patrick T.
+- I'm a coder looking to get some more experience
+- I enjoy reading and bowling.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
