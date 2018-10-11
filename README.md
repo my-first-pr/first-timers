@@ -131,6 +131,7 @@ Start adding your names here:
 ## Patrick T.
 - I'm a coder looking to get some more experience
 - I enjoy reading and bowling.
+- And git branching
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
