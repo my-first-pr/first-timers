@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Ishita Chourasia
+- I am a software developer
+- I enjoy competitive programing
+- [![github-alt][github-img]](https://github.com/ishitach)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
