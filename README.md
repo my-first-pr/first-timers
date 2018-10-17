@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### meet kiran.
+- I'm a student learning C#
+- I work and live in india.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
