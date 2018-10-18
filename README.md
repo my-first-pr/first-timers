@@ -128,6 +128,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Ekanshi
+- New to open-source
+- At a bootcamp in India
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
