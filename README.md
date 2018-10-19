@@ -123,10 +123,15 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
-### Sasini Edirisinghe
+## Sasini Edirisinghe
 - I'm passionate about competitive coding
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
+
+## Yusuf Adefolahan 
+- I'm an Android Developer 
+- I am a freelancer 
+- My hobbies include coding, watching films and travelling .
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
