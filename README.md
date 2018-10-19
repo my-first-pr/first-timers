@@ -128,6 +128,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Yap
+- First-timer in PR
+- New technology always excites me and I will look for opportunities to apply them
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
