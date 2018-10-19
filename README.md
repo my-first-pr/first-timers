@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Dayitva Goel
+- Senior School Graduate from DPS Indonesia
+- Tech buff and interested in programming and business
+- Love learning new things
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
