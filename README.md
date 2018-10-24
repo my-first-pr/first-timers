@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Ofir Cohen
+- I'm a 3rd year Software Engineering student
+- I love coding in C because with great power comes great responsibility
+- Java is also good
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
