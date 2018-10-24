@@ -128,6 +128,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Elizabeth Villalejos
+- I'm a self-taught front-end developer
+- Proud chihuahua mom, NFL enthusiast.
+- My hobbies include watching football Sundays with my pup, coding and reading about astrology. 
+- [![twitter-alt][twitter-img]](https://twitter.com/miss_elliev)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
