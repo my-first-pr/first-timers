@@ -128,6 +128,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Severiano Badajoz
+- I'm a seasoned developer studying web dev
+- I'm a student at Make School in SF
+- My hobbies include exploring the world of open source
+- [![github-alt][github-img]](https://github.com/seve)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
