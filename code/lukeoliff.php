@@ -6,6 +6,6 @@ http://php.net/manual/en/tutorial.firstpage.php
     <title>PHP Test</title>
 </head>
 <body>
-<?php echo '<p>Hello World</p>'; ?>
+<?php echo '<p>Goodbye World</p>'; ?>
 </body>
 </html>
