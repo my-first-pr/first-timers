@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Misael Aguayo
+- I'm a senior at Texas Tech
+- I am a member of ACM
+- I will graduate in May, 2018
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
