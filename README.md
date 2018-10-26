@@ -32,6 +32,12 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
   [![github-alt][github-img]](https://github.com/kim-codes)
 
+
+### Stephen Joel
+- I'm passionate about competitive coding
+- I am a student at Texas Tech University
+- My hobbies include coding, swimming and film making.
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
