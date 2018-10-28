@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Keegan Lawley
+- I am a web developer/ senior CS student
+- In my freetime am currently building various personal projects with JavaScript.
+- [![github-alt][github-img]](https://github.com/keeganl)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
