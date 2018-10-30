@@ -128,6 +128,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Aziz Muslim
+-I'm a programmer who stays in india
+-Looking to discover this world 
+-My hobbies include watching movies,reading
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
