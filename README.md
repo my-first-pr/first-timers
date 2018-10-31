@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Zakariya
+- I'm a passionate Android developer.
+- I'm self-employed.
+- My hobbies include programming and sports.
+
 ### Nirupam Singh
 - I'm a beginner in open-source world
 - I work for an e-commerce company
