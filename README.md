@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Farhan Shabri
+- I'm a beginner
+- Interested in all things agriculture and tech
+- I love learning new things
+- [![github-alt][github-img]](https://github.com/farhan9521)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
