@@ -25,6 +25,13 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### kimcodes
+- I work at Auth0!
+- I am currently doing a webinar with the awesome Ado! 
+- I like comic books. 
+- [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
+  [![github-alt][github-img]](https://github.com/kim-codes)
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
@@ -125,6 +132,17 @@ Start adding your names here:
 - I'm a passionate Android developer.
 - I'm self-employed.
 - My hobbies include programming and sports.
+
+### Nirupam Singh
+- I'm a beginner in open-source world
+- I work for an e-commerce company
+- My hobbies include coding and learning new stuffs (curious by heart)
+- [![github-alt][github-img]](https://github.com/nirupamsingh29)
+
+### Sahil Garg
+- I'm passionate about competitive coding and software development
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, playing sports and running.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
