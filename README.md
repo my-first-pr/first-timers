@@ -128,6 +128,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Nirupam Singh
+- I'm a beginner in open-source world
+- I work for an e-commerce company
+- My hobbies include coding and learning new stuffs (curious by heart)
+- [![github-alt][github-img]](https://github.com/nirupamsingh29)
+
 ### Sahil Garg
 - I'm passionate about competitive coding and software development
 - I am a student at Manipal Institute of Technology
