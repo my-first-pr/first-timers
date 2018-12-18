@@ -98,6 +98,14 @@ Start adding your names here:
 - Not the best, but trying to be one.
 - Love playing games.
 
+### Midhun Biju
+- Hai Guys ! I'm Midhun.
+- I'm a Journalism Student have a great passion in web devleopment & Ethical Hacking.
+- I'm very much interested in Cyber Security field.
+- [![twitter-alt][twitter-img]](https://twitter.com/midhun__biju)
+  [![facebook-alt][facebook-img]](https://facebook.com/midhun.biju.1)
+  [![github-alt][github-img]](https://github.com/midhunbiju)
+
 ### Niaw Junior
 - I'm a Programmer
 - I work at DomeCloud
