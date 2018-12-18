@@ -25,6 +25,13 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### zbergus
+- I work at Bell Mobility
+- I love to contribute, test and play with new technologies
+- [![github-alt][github-img]](https://github.com/zbergus)
+- https://www.linkedin.com/in/zbergus/
+
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
