@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Colin A
+- I'm a code developer
+- I work for Developing Systems
+- My hobbies include coding and developing..
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
