@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Jorge Ramirez
+- I'm looking forward to actively contribute to open source projects.
+- I design and develop websites with Javascript and its different Frameworks and Libraries.
+- Passionate about coding and design.
+- [![github-alt][github-img]](https://github.com/jarm0785)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
