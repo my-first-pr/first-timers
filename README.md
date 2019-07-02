@@ -152,6 +152,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Antonio Moran
+- I'm an student for University of Castilla-La Mancha
+- My hobbies include reading, practising sports and watching movies
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
