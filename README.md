@@ -149,7 +149,7 @@ Start adding your names here:
 
 
 ### Saj
-- I'm a Phd student from Munich
+- I'm a Phd student from Munich...
 
 ### Sahil Garg
 - I'm passionate about competitive coding and software development
