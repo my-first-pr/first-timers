@@ -25,6 +25,10 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### hadders
+- I am a data scientist but never make PRs and always work on the master branch (naughty me)
+- This is my attempt to learn this stuff! 
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
