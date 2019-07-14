@@ -147,6 +147,10 @@ Start adding your names here:
 - My hobbies include coding and learning new stuffs (curious by heart)
 - [![github-alt][github-img]](https://github.com/nirupamsingh29)
 
+
+### Saj
+- I'm a Phd student from Munich
+
 ### Sahil Garg
 - I'm passionate about competitive coding and software development
 - I am a student at Manipal Institute of Technology
