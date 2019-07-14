@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Michal Mazurek
+- I'm systems and data engineer
+- I work for good of all :)
+- My hobbies are coding and martial arts
+- [![github-alt][github-img]](https://github.com/michalmazurek)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
