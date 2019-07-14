@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Jaymin Mistry
+- Data scientist at a consulting company
+- I enjoy NLP
+- I am keen to learn more about software best practice
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
