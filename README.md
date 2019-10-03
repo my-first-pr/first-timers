@@ -151,6 +151,10 @@ Start adding your names here:
 - I'm passionate about competitive coding and software development
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
+### Nate
+- I want to learn how to be helpful in the coding and computer world
+- I build computers
+- I think Opensuse is a great linux Distro!
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
