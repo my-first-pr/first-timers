@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Fajar Ramadhan
+- I'm a passionate UI/UX Design
+- I am a IT Support
+- My hobbies include design, learning, play games.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
