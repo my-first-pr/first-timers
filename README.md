@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Jack Alexander
+- I'm a Full Stack Web Developer (focusing on back end) using a Roots Wordpress Stack.
+- I'm from Colchester and my best friend Harry Hammett
+- I'm also a semi-professional wrestler!
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
