@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### muhammad aditya nurdin 
+- I'm passionate about competitive coding and software development
+- I am a student at Universitas Bina Sarana Mandiri
+- My hobbies include learning and teaching to code, and Gaming.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
