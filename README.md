@@ -73,6 +73,13 @@ Start adding your names here:
 - I work for nobody	
 - My hobbies include watching movies
 
+### Sagar Masand
+- I am a Robotics Enthusiast 
+- I am from India 
+- I love sports and Newbie to coding. 
+- [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
+  [![github-alt][github-img]](https://github.com/kim-codes)
+
 ### TheGunder
 - Learning Python currently
 - Interested in low level programming
