@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Arjun Dixt
+- I love problem solving and is fond of Competitive Programming.
+- I am a student at Vellore Institute of Technology, Vellore
+- My hobbies include coding, playing football and FIFA
+- I have just started with basics of Web Development and related technologies.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
