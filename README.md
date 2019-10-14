@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Bagas Romansyah
+- I'm passionate about IT Support
+- I am work IT support
+- My hobbies include coding java script.
+- - [![github-alt][github-img]](https://github.com/bagasroman)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
