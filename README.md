@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Gursimar Saini
+- New to programming and F&OS
+- Pretty much free most of time
+- Love doing spontaneous things and reading books
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...

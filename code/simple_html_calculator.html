@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Calculator</title>
+  <script type="text/javascript">
+      function add(){
+        var x = Number(document.getElementById('var1').value);
+        var y = Number(document.getElementById('var2').value);
+        document.getElementById('result').value=x+y;
+      }
+      function sub(){
+        var x = Number(document.getElementById('var1').value);
+        var y = Number(document.getElementById('var2').value);
+        document.getElementById('result').value=x-y;
+      }
+      function multi(){
+        var x = Number(document.getElementById('var1').value);
+        var y = Number(document.getElementById('var2').value);
+        document.getElementById('result').value=x*y;
+      }
+      function div(){
+        var x = Number(document.getElementById('var1').value);
+        var y = Number(document.getElementById('var2').value);
+        document.getElementById('result').value=x/y;
+      }
+    </script>
+  </head>
+  <body>
+    <div style="align:top">
+      <div style="align:left">
+        Enter first number:<input id="var1" type="number" name="var1"></input>
+      </div>
+      <div style="align:right">
+        Enter second number:<input id="var2" type="number" name="var1"></input>
+      </div>
+    </div>
+    <div id="cal" style="align:center">
+      <br />
+      <center><button type="button" onclick='add()'>Addition</button><br /><br />
+      <center><button type="button" onclick='sub()'>Substraction</button><br /><br />
+      <center><button type="button" onclick='multi()'>Multiplication</button><br /><br />
+      <center><button type="button" onclick='div()'>Division</button><br /><br />
+    </div>
+    <div>
+      <center>Result: <input id="result" type"text"></input>
+    </div>
+  </body>
+</html>
