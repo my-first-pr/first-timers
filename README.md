@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Pinak Roy Chowdhury
+- I'm into competitive coding and software development
+- I am a student final year student in West Bengal University of Technology
+- My hobbies include watching tv series
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
