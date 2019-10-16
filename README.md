@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Anshul arora
+-i am a passionate web developer learning to design web.
+-i am student of uiet chandigarh.
+-my hobbies include reading books, coding
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
