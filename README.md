@@ -123,6 +123,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### ecebear14
+- I enjoy running
+
+
 ### Sasini Edirisinghe
 - I'm passionate about competitive coding
 - I am a student at Manipal Institute of Technology
