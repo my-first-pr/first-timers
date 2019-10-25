@@ -152,6 +152,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Wahyudin
+- I'm a beginner
+- I'm self-employed.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
