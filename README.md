@@ -154,6 +154,7 @@ Start adding your names here:
 
 ### ganevgv
 - I'm very keen to contribute to the open-source community
+- I'm looking forward to the Man Group Open Source Hackatlon 2019 on Saturday
 - I work for a small and interesting start-up
 - My hobbies include coding, machine learning, football and cooking.
 - [![github-alt][github-img]](https://github.com/ganevgv)
