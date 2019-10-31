@@ -152,6 +152,9 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### hp310780
+- First timer open source contributor.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
