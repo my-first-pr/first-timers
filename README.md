@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### ganevgv
+- I'm very keen to contribute to the open-source community
+- I work for a small and interesting start-up
+- My hobbies include coding, machine learning, football and cooking.
+- [![github-alt][github-img]](https://github.com/ganevgv)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
