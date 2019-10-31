@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Arthur Böök
+- I grew up in Finland but I lived in Germany, Japan and Spain!
+- Programming is fun, especially machine learning and data 
+- Looking forward to getting to know all of you.
+- I am excited to learn and contribute to the open source community
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
