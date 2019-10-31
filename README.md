@@ -25,6 +25,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### LHuynh
+- I am currently at Cheuk's Open Source Beginner's Bootcamp
+- I looking forward to attending my first Hackthon this weekend
+- My hobbies include learning and playing games
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
