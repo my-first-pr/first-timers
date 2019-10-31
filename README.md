@@ -152,6 +152,10 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Tim Benger
+- Python application developer
+- New to open source
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
