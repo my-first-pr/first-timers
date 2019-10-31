@@ -141,6 +141,11 @@ Start adding your names here:
 - I'm self-employed.
 - My hobbies include programming and sports.
 
+### George Simpson
+- I'm a data scientist. 
+- I work in financial services in London.
+- I like chess and coding.
+
 ### Nirupam Singh
 - I'm a beginner in open-source world
 - I work for an e-commerce company
