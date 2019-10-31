@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Andrea Menaldo
+- I am passionate about quant finance and coding
+- I work as contractor in the financial market
+- My hobbies include football and videogames
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
