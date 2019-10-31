@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Rain
+- I am passionate about machine learning.
+- I work for an asset management company. 
+- My hobbies include running and travelling.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
