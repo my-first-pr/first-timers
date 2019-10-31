@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Joonas Kalda
+- I am recent maths graduate from Cambridge university.
+- I am interested in data science but new to open source.
+- My hobbies include climbing and coding.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
