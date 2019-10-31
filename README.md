@@ -25,6 +25,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### paulegef
+- I'm a data scientist
+  [![github-alt][github-img]](https://github.com/PauleGef)
+
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
