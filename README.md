@@ -151,6 +151,10 @@ Start adding your names here:
 - I'm passionate about competitive coding and software development
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
+### Andrea Menaldo
+I'm passionate about quant finacne  and coding
+- I work in consulting in quant finance
+- My hobbies include football and videogames
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
