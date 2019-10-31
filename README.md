@@ -32,6 +32,14 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
   [![github-alt][github-img]](https://github.com/kim-codes)
 
+### Emiliano Cancellieri
+- I am new to this...it looks great!
+- [![twitter-alt][twitter-img]](https://twitter.com/ecancellieri)
+  [![github-alt][github-img]](https://github.com/ecancellieri)
+
+
+
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
