@@ -24,6 +24,9 @@ This repository is for anyone to create pull requests on, for practice or otherw
 ## Contributors List
 
 Start adding your names here:
+### Arpan A.
+- I love to code.
+- I design and code beautifully simple things, and I love what I do.
 
 ### kimcodes
 - I work at Auth0!
