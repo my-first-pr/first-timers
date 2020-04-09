@@ -25,6 +25,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### Ana P.
+- finished Data Science specialization
+- senior IT Consultant, migrating into Data Science ;)
+- learning Github now ...
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
