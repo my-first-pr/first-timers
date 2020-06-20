@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Marija
+- I'm a computational biology student at the University of Zurich
+- I'm contributing as part of the PyData Festival Amsterdam Code Sprint.
+- My hobbies include reading, hiking and winter sports. 
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
