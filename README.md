@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### James Mee
+- I'm an absolute beginner at GitHub
+- I am an engineer
+- My hobbies include trying to learn how to use GitHub
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
