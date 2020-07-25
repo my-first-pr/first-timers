@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Sebastian D.W. Thomas
+- I'm a phd student and try to get along in data analysis with python
+- I love lifting weights and playing the guitar.
+- And also playing computer. And coding.
+- [![github-alt][github-img]](https://github.com/SebastianDWT)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
