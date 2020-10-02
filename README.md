@@ -155,7 +155,7 @@ Start adding your names here:
 ### ARsh ALgo
 - Hey, I'm a newbie to open source code.
 - Learning C++ for programming.
-- Doing my graduation for (I don't have any idea.)
+- Doing my graduation for (I don't have any idea)
 -  :-)
 
 
