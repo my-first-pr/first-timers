@@ -37,6 +37,12 @@ Start adding your names here:
 - I work and go to school.
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
+### Raman Turner
+- I'm a first year engineering student
+- I love learning new things and competitive coding.
+- My hobbies include riding bikes, reading books.
+
+
 ### dumblole
 - I go to high school and I think javascript is the best language... Well, I kinda like python too.
 - [![twitter-alt][twitter-img]](https://twitter.com/dumblole)
