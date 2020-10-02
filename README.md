@@ -152,6 +152,13 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### ARsh ALgo
+- Hey, I'm a newbie to open source code.
+- Learning C++ for programming.
+- Doing my graduation for (I don't have any idea.)
+-  :-)
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
