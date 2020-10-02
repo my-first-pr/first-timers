@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Nikhil
+- I'm passionate about Web development
+- I am a student at cadet who code.
+- My hobbies include coding, trekking and music.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
