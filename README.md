@@ -153,6 +153,12 @@ Start adding your names here:
 - My hobbies include coding, playing sports and running.
 
 ### Example Profile
+- I'm an Engineering Student :)
+- I work for part time
+- My hobbies include Code, Cricket, Coffee...
+- [![github-alt][github-img]](https://github.com/umangraj20)
+
+### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
