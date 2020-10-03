@@ -152,7 +152,7 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
-### Example Profile
+### Umang Raj
 - I'm an Engineering Student :)
 - I work for part time
 - My hobbies include Code, Cricket, Coffee...
