@@ -152,6 +152,14 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Abdul Wassay
+- I'm a Software Engineering student.
+- I work for nobody.
+- My hobbies include coding and reading.
+- [![github-alt][github-img]](https://github.com/wassaysardar2k)
+- [![twitter-alt][twitter-img]](https://twitter.com/sonof_sardar)
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
