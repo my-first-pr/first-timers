@@ -21,6 +21,8 @@ This repository is for anyone to create pull requests on, for practice or otherw
 - [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com/) first.
 - Then head to [our repository](https://github.com/my-first-pr/hacktoberfest-2018) to make your first hacktoberfest 2018 contribution.
 
+
+
 ## Contributors List
 
 Start adding your names here:
@@ -97,6 +99,11 @@ Start adding your names here:
 - New to Github/Opensource.
 - Not the best, but trying to be one.
 - Love playing games.
+
+### Shashank Kesharwani
+- New to Github
+- Started programming, beginner.
+- My hobbies are playing football.
 
 ### Niaw Junior
 - I'm a Programmer
