@@ -118,6 +118,11 @@ Start adding your names here:
 - I work for nobody	
 - My hobbies include watching tv series
 
+### frozen
+- I'm a Data Scientist
+- I also do competitive programming.
+- I'm learning open source contribution
+
 ### Ananya Gupta
 - I'm passionate about competitive coding
 - I am a student at Manipal Institute of Technology
