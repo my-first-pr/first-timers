@@ -32,6 +32,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
   [![github-alt][github-img]](https://github.com/kim-codes)
 
+### Cheri Haggard
+- I teach coding and robotics in middle school
+- I want to delve deeper into the working world of code
+- [![github-alt][github-img]](https://github.com/gonzocher)
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
