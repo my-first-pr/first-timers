@@ -29,6 +29,7 @@ Start adding your names here:
 - I love python
 - I work at TerminusDB
 - I love PyCon NA
+- I love dogs
 
 ### kimcodes
 - I work at Auth0!
