@@ -25,6 +25,13 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+
+### Lindley
+- Work in accounting. Live in Namibia
+- Here at the python conference (https:https://na.pycon.org/)
+
+
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
