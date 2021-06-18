@@ -28,7 +28,7 @@ Start adding your names here:
 
 ### Lindley
 - Work in accounting. Live in Namibia
-- Here at the pytohn conference (https:https://na.pycon.org/)
+- Here at the python conference (https:https://na.pycon.org/)
 
 
 
