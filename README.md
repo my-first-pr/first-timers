@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Katrin Abrahams
+- I'm a beginner to open-source staff but I am really motivated :-)
+- I want to get to know new people :-)
+- My hobbies include cooking and a lot of sports :-)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
