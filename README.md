@@ -163,6 +163,10 @@ Start adding your names here:
   [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
 
+## Oliver Theunissen
+ - I am a biochemist
+ - I work sometimes
+
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
