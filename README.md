@@ -152,6 +152,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Nicolás Demarchi
+- I love pytyhon. 
+- I work for Europython
+- [![twitter-alt][twitter-img]](https://twitter.com/gilgamezh)
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
