@@ -152,6 +152,13 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Vineet Mahajan
+- I like to create things and I'm passionate about Developing Big Softwares that Affects other People.🙂
+- I'm a 3rd year CSE UnderGrad.
+- My hobbies include reading, music and making thing.
+- [![twitter-alt][twitter-img]](https://twitter.com/VineetS086)
+  [![github-alt][github-img]](https://github.com/VineetS086)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
