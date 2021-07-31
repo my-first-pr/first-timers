@@ -18,7 +18,7 @@ That said, suggest ways to contribute include:
 ```
 * Commit and send a pull request. Bonus points for correctly named branches.
 
-### A code sample
+### A code sample 1
 
 * Fork the project.
 * Create a code sample under `/code` named <yourname>.<language-file-extension>. I.e. `lukeoliff.js`, `lukeoliff.php`
