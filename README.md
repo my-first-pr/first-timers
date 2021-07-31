@@ -25,6 +25,37 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### kimcodes
+- I work at Auth0!
+- I am currently doing a webinar with the awesome Ado! 
+- I like comic books. 
+- [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
+  [![github-alt][github-img]](https://github.com/kim-codes)
+
+### Dan E.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### dumblole
+- I go to high school and I think javascript is the best language... Well, I kinda like python too.
+- [![twitter-alt][twitter-img]](https://twitter.com/dumblole)
+  [![github-alt][github-img]](https://github.com/dumblole)
+
+### gursimran
+- I'm a programmer who stays in india
+- I work for nobody	
+- My hobbies include watching movies
+
+### senpai
+- I'm a geeky nerd who stays in dark
+- I work for air
+- My hobbies include messing with linux, reading, playing fps.
+
+### Kundan Kumar
+- I like AI, programming and web development.
+- [![github-alt][github-img]](https://github.com/kundan28)
+
 ### Luke Oliff
 - [Open source software advocate](https://my-first-pr.github.io), [pirate translator](https://github.com/lukeoliff/first-contributions/blob/feature/translation-en-pirate/translations/README.en-pirate.md) & [technical writer](https://github.com/auth0/blog)
 - [![twitter-alt][twitter-img]](https://twitter.com/mroliff)
@@ -36,6 +67,90 @@ Start adding your names here:
 - Hobbies include fixing linting errors, try new things and fixing linting errors (again)
 - [![twitter-alt][twitter-img]](https://twitter.com/paperlambda)
   [![github-alt][github-img]](https://github.com/paperlambda)
+
+### gursimran
+- I'm a programmer who stays in india
+- I work for nobody	
+- My hobbies include watching movies
+
+### TheGunder
+- Learning Python currently
+- Interested in low level programming
+- [![github-alt][github-img]](https://github.com/TheGunder)
+
+### Dan E.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### Suvin Nimnaka
+- I'm a high school tech enthusiasist. 
+- I currently work on GOLANG.
+- My hobbies include learning and teaching to code, and reading books.
+
+### pfistersimon
+- I'm new in coding but good in html and CSS
+- I love to work in Open source to practis my skills but also to lern new one
+- I like to watch movies but also learning coding or making own videos
+
+### Md Akram Kazmi
+- New to Github/Opensource.
+- Not the best, but trying to be one.
+- Love playing games.
+
+### Niaw Junior
+- I'm a Programmer
+- I work at DomeCloud
+- My hobbies is coding
+
+### Shashika.
+- I'm a student learning C#
+- I work and go to school.
+- My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
+
+### Shashika Boteju
+- I'm a graduated Software Engineer. 
+- I currently work on Informatics.
+- My hobbies include learning and teaching to code, and Gaming.
+
+### thilna
+- I'm a web developer
+- I work for nobody	
+- My hobbies include watching tv series
+
+### Ananya Gupta
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
+
+### Sasini Edirisinghe
+- I'm passionate about competitive coding
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, reading and running.
+
+### Amitava Mitra
+- I'm a IT student from India
+- I build Custom ROM's for my device.
+- Also, I am a Front End Web Developer, wannabe Android Developer and Full Stack Web Developer.
+- [![github-alt][github-img]](https://github.com/Amitava123)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/amitava.mitra.786)
+  [![twitter-alt][twitter-img]](https://twitter.com/amitava6)
+
+### Zakariya
+- I'm a passionate Android developer.
+- I'm self-employed.
+- My hobbies include programming and sports.
+
+### Nirupam Singh
+- I'm a beginner in open-source world
+- I work for an e-commerce company
+- My hobbies include coding and learning new stuffs (curious by heart)
+- [![github-alt][github-img]](https://github.com/nirupamsingh29)
+
+### Sahil Garg
+- I'm passionate about competitive coding and software development
+- I am a student at Manipal Institute of Technology
+- My hobbies include coding, playing sports and running.
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
