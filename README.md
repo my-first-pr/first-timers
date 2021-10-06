@@ -5,8 +5,8 @@
 ![GitHub](https://img.shields.io/github/license/my-first-pr/first-timers.svg)
 ![GitHub forks](https://img.shields.io/github/forks/my-first-pr/first-timers.svg)
 ![GitHub issues](https://img.shields.io/github/issues/my-first-pr/first-timers.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/first-timers.svg) 
-![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/first-timers.svg) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/my-first-pr/first-timers.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/my-first-pr/first-timers.svg)
 ![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/my-first-pr/first-timers.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/my-first-pr/first-timers.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/first-timers.svg)
@@ -27,8 +27,8 @@ Start adding your names here:
 
 ### kimcodes
 - I work at Auth0!
-- I am currently doing a webinar with the awesome Ado! 
-- I like comic books. 
+- I am currently doing a webinar with the awesome Ado!
+- I like comic books.
 - [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
   [![github-alt][github-img]](https://github.com/kim-codes)
 
@@ -44,7 +44,7 @@ Start adding your names here:
 
 ### gursimran
 - I'm a programmer who stays in india
-- I work for nobody	
+- I work for nobody
 - My hobbies include watching movies
 
 ### senpai
@@ -70,7 +70,7 @@ Start adding your names here:
 
 ### gursimran
 - I'm a programmer who stays in india
-- I work for nobody	
+- I work for nobody
 - My hobbies include watching movies
 
 ### TheGunder
@@ -84,7 +84,7 @@ Start adding your names here:
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
 ### Suvin Nimnaka
-- I'm a high school tech enthusiasist. 
+- I'm a high school tech enthusiasist.
 - I currently work on GOLANG.
 - My hobbies include learning and teaching to code, and reading books.
 
@@ -109,13 +109,13 @@ Start adding your names here:
 - My hobbies include learning to code, learning how to use github, and learning to contribute to open-source projects.
 
 ### Shashika Boteju
-- I'm a graduated Software Engineer. 
+- I'm a graduated Software Engineer.
 - I currently work on Informatics.
 - My hobbies include learning and teaching to code, and Gaming.
 
 ### thilna
 - I'm a web developer
-- I work for nobody	
+- I work for nobody
 - My hobbies include watching tv series
 
 ### Ananya Gupta
@@ -151,6 +151,11 @@ Start adding your names here:
 - I'm passionate about competitive coding and software development
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
+
+### Jon Moon
+- I'm an enthusiastic coding hobbyist
+- I work with learning technologies
+- Hobbies include coding, photography and walking
 
 ### Example Profile
 - I'm an example that you can copy, if you want :)
