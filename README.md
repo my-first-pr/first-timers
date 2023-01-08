@@ -152,6 +152,14 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+
+### Yusuff Ogundeji
+- I'm passionate about building software solutions that'l solve important problems. :)
+- I currently work as a software developer
+- My hobbies technical and non-technical writing, wireframing, reading financial statements, contributing to the community and mentoring upcoming developers.
+- [![twitter-alt][twitter-img]](https://twitter.com/_temiogundeji)
+  [![github-alt][github-img]](https://github.com/temiogundeji)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
