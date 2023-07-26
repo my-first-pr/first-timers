@@ -152,6 +152,13 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Elikem A.A
+- I'm excited about building cool things online
+- My hobbies include...
+- swimming
+- basketball
+
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
