@@ -153,6 +153,12 @@ Start adding your names here:
 - My hobbies include coding, playing sports and running.
 
 ### Example Profile
+- I'm excited about creating cool things on the internet
+- My hobbies include...
+- swimming
+- basketball
+
+### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
