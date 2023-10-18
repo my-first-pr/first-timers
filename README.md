@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Ojaswi Deshmukh
+- I'm a Software Developer and Cybersecurity Enthusiast
+- I work for an MNC.
+- My hobbies include coding, art and craft work.
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
