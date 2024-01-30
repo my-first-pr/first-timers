@@ -25,6 +25,10 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### ausrazali
+- I am a software engineering student!
+  [![github-alt][github-img]](https://github.com/ausrazali)
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
